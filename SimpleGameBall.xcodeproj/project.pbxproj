@@ -16,6 +16,17 @@
 		5136C3022468D5230075DFCF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5136C3012468D5230075DFCF /* main.m */; };
 		5136C30C2468D5240075DFCF /* SimpleGameBallTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5136C30B2468D5240075DFCF /* SimpleGameBallTests.m */; };
 		5136C3172468D5240075DFCF /* SimpleGameBallUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5136C3162468D5240075DFCF /* SimpleGameBallUITests.m */; };
+		5136C33A2468DB470075DFCF /* red.png in Resources */ = {isa = PBXBuildFile; fileRef = 5136C3332468DB470075DFCF /* red.png */; };
+		5136C33B2468DB470075DFCF /* basket.png in Resources */ = {isa = PBXBuildFile; fileRef = 5136C3342468DB470075DFCF /* basket.png */; };
+		5136C33C2468DB470075DFCF /* bom.png in Resources */ = {isa = PBXBuildFile; fileRef = 5136C3352468DB470075DFCF /* bom.png */; };
+		5136C33D2468DB470075DFCF /* blue.png in Resources */ = {isa = PBXBuildFile; fileRef = 5136C3362468DB470075DFCF /* blue.png */; };
+		5136C33E2468DB470075DFCF /* yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 5136C3372468DB470075DFCF /* yellow.png */; };
+		5136C33F2468DB470075DFCF /* pink.png in Resources */ = {isa = PBXBuildFile; fileRef = 5136C3382468DB470075DFCF /* pink.png */; };
+		5136C3402468DB470075DFCF /* green.png in Resources */ = {isa = PBXBuildFile; fileRef = 5136C3392468DB470075DFCF /* green.png */; };
+		5136C3422468DD310075DFCF /* cityskyline.png in Resources */ = {isa = PBXBuildFile; fileRef = 5136C3412468DD310075DFCF /* cityskyline.png */; };
+		5136C3452468DE000075DFCF /* GameCode.m in Sources */ = {isa = PBXBuildFile; fileRef = 5136C3442468DE000075DFCF /* GameCode.m */; };
+		5175DB36246928FB00964E19 /* EndingCode.m in Sources */ = {isa = PBXBuildFile; fileRef = 5175DB35246928FB00964E19 /* EndingCode.m */; };
+		5175DB3824693F3000964E19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5175DB3724693F3000964E19 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +65,19 @@
 		5136C3122468D5240075DFCF /* SimpleGameBallUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleGameBallUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5136C3162468D5240075DFCF /* SimpleGameBallUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleGameBallUITests.m; sourceTree = "<group>"; };
 		5136C3182468D5240075DFCF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5136C3332468DB470075DFCF /* red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red.png; sourceTree = "<group>"; };
+		5136C3342468DB470075DFCF /* basket.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = basket.png; path = ../../../../Desktop/imagedata/gamedata/basket.png; sourceTree = "<group>"; };
+		5136C3352468DB470075DFCF /* bom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bom.png; path = ../../../../Desktop/imagedata/gamedata/bom.png; sourceTree = "<group>"; };
+		5136C3362468DB470075DFCF /* blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blue.png; sourceTree = "<group>"; };
+		5136C3372468DB470075DFCF /* yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellow.png; sourceTree = "<group>"; };
+		5136C3382468DB470075DFCF /* pink.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pink.png; sourceTree = "<group>"; };
+		5136C3392468DB470075DFCF /* green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green.png; sourceTree = "<group>"; };
+		5136C3412468DD310075DFCF /* cityskyline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cityskyline.png; sourceTree = "<group>"; };
+		5136C3432468DE000075DFCF /* GameCode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameCode.h; sourceTree = "<group>"; };
+		5136C3442468DE000075DFCF /* GameCode.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameCode.m; sourceTree = "<group>"; };
+		5175DB34246928FB00964E19 /* EndingCode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EndingCode.h; sourceTree = "<group>"; };
+		5175DB35246928FB00964E19 /* EndingCode.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EndingCode.m; sourceTree = "<group>"; };
+		5175DB3724693F3000964E19 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +108,7 @@
 		5136C2E32468D5230075DFCF = {
 			isa = PBXGroup;
 			children = (
+				5175DB3724693F3000964E19 /* Assets.xcassets */,
 				5136C2EE2468D5230075DFCF /* SimpleGameBall */,
 				5136C30A2468D5240075DFCF /* SimpleGameBallTests */,
 				5136C3152468D5240075DFCF /* SimpleGameBallUITests */,
@@ -111,10 +136,15 @@
 				5136C2F52468D5230075DFCF /* ViewController.h */,
 				5136C2F62468D5230075DFCF /* ViewController.m */,
 				5136C2F82468D5230075DFCF /* Main.storyboard */,
+				5175DB34246928FB00964E19 /* EndingCode.h */,
+				5175DB35246928FB00964E19 /* EndingCode.m */,
+				5136C3432468DE000075DFCF /* GameCode.h */,
+				5136C3442468DE000075DFCF /* GameCode.m */,
 				5136C2FB2468D5230075DFCF /* Assets.xcassets */,
 				5136C2FD2468D5230075DFCF /* LaunchScreen.storyboard */,
 				5136C3002468D5230075DFCF /* Info.plist */,
 				5136C3012468D5230075DFCF /* main.m */,
+				5136C3242468D5EC0075DFCF /* Image */,
 			);
 			path = SimpleGameBall;
 			sourceTree = "<group>";
@@ -135,6 +165,21 @@
 				5136C3182468D5240075DFCF /* Info.plist */,
 			);
 			path = SimpleGameBallUITests;
+			sourceTree = "<group>";
+		};
+		5136C3242468D5EC0075DFCF /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				5136C3412468DD310075DFCF /* cityskyline.png */,
+				5136C3342468DB470075DFCF /* basket.png */,
+				5136C3362468DB470075DFCF /* blue.png */,
+				5136C3352468DB470075DFCF /* bom.png */,
+				5136C3392468DB470075DFCF /* green.png */,
+				5136C3382468DB470075DFCF /* pink.png */,
+				5136C3332468DB470075DFCF /* red.png */,
+				5136C3372468DB470075DFCF /* yellow.png */,
+			);
+			path = Image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -240,9 +285,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5136C33C2468DB470075DFCF /* bom.png in Resources */,
+				5136C33E2468DB470075DFCF /* yellow.png in Resources */,
+				5136C33F2468DB470075DFCF /* pink.png in Resources */,
 				5136C2FF2468D5230075DFCF /* LaunchScreen.storyboard in Resources */,
+				5136C33A2468DB470075DFCF /* red.png in Resources */,
 				5136C2FC2468D5230075DFCF /* Assets.xcassets in Resources */,
+				5136C33B2468DB470075DFCF /* basket.png in Resources */,
+				5136C3402468DB470075DFCF /* green.png in Resources */,
+				5136C33D2468DB470075DFCF /* blue.png in Resources */,
 				5136C2FA2468D5230075DFCF /* Main.storyboard in Resources */,
+				5175DB3824693F3000964E19 /* Assets.xcassets in Resources */,
+				5136C3422468DD310075DFCF /* cityskyline.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,7 +322,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				5136C2F72468D5230075DFCF /* ViewController.m in Sources */,
+				5136C3452468DE000075DFCF /* GameCode.m in Sources */,
 				5136C2F12468D5230075DFCF /* AppDelegate.m in Sources */,
+				5175DB36246928FB00964E19 /* EndingCode.m in Sources */,
 				5136C3022468D5230075DFCF /* main.m in Sources */,
 				5136C2F42468D5230075DFCF /* SceneDelegate.m in Sources */,
 			);
@@ -442,6 +498,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4XL58DYFGP;
 				INFOPLIST_FILE = SimpleGameBall/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -459,6 +516,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 4XL58DYFGP;
 				INFOPLIST_FILE = SimpleGameBall/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
